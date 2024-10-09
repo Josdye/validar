@@ -1,0 +1,52 @@
+body {
+    background-color: blue;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 200px;
+    margin-left: 35%;
+    background-color: gray;
+    padding: 20px;
+    width: 25%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.message {
+    margin-top: 15px;
+    font-weight: bold;
+}
+.fot{
+    color: white;
+    margin-top: 10%;
+}
